@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbb0c60a-b3be-42ca-bf1e-09d6ddeb9476" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/11-excercise/classes/calc.class.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-excercise/includes/calc.inc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-excercise/includes/class-autoload.inc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11-excercise/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-excercise/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +40,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -55,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677411869933</updated>
       <workItem from="1677411870928" duration="2135000" />
-      <workItem from="1677414073808" duration="779000" />
+      <workItem from="1677414073808" duration="826000" />
     </task>
     <servers />
   </component>
